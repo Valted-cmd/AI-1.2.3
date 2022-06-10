@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/afvehs1v2mjp7swy?svg=true)](https://ci.appveyor.com/project/Valted-cmd/ai-1-2-3)
